@@ -1,5 +1,5 @@
 # simulation-rob-single
-jedis加锁模拟 10w人抢单
+jedis加锁抢单demo
 
 # Getting Started
 
